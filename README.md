@@ -16,8 +16,6 @@ I'm a __Technical Writer__ at QuestDB who loves open source software, IoT, and m
 I write documentation at [QuestDB](https://github.com/questdb/questdb) - a blazing fast open source time series database.
 The team behind QuestDB have built an incredibly efficient project from the ground up with a __lot__ or attention to performance details.
 
-![QuestDB Demo](https://bsmthde-assets.s3.eu-west-3.amazonaws.com/home/qdb-demo.png)
-
 In order to build a super efficient system, some interesting optimizations are used:
 
 * __ZeroGC__ - zero garbage collection 
