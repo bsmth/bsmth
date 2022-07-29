@@ -4,7 +4,7 @@ I'm a **Technical Writer** who builds open source software, developer docs and
 technical content. I hack on API docs, Python, Node.js, fullstack projects, and
 data visualization.
 
-**Catch me on Twitter:** [🐤 @btsmth](https://twitter.com/btsmth)
+**Catch me on Twitter:** [🐤 @btsmth](https://twitter.com/DevDocsBrian)
 
 **My blog:** https://bsmth.de
 
@@ -33,4 +33,4 @@ interact with REST APIs.
 ### 📫 Get in touch
 
 If you're building open source tools and communities, feel free to
-[DM me on Twitter](https://twitter.com/btsmth).
+[DM me on Twitter](https://twitter.com/DevDocsBrian).
