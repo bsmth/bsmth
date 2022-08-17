@@ -1,14 +1,10 @@
 ### Brian Smith (@bsmth) here 👋
 
-I'm a **Technical Writer** who builds open source software, developer docs and
-technical content. I hack on API docs, Python, Node.js, fullstack projects, and
-data visualization.
+I'm a **Staff Technical Writer** at MDN. I write developer docs and technical
+content. I hack on API docs, Python, Node.js, fullstack projects, and data
+visualization.
 
-**Catch me on Twitter:** [🐤 @DevDocsBrian](https://twitter.com/DevDocsBrian)
-
-**My blog:** https://bsmth.de
-
-**Tl;dr:**
+**My card:**
 
 ```bash
 npx bsmth
@@ -16,10 +12,18 @@ npx bsmth
 
 ## My work
 
+#### :fox_face: MDN @Mozilla
+
+I'm a Staff Technical Writer at [MDN](https://developer.mozilla.org) where I
+help document the web. If you would like to contribute to the MDN content, see
+the [MDN Content repo](https://github.com/mdn/content) and don't forget to take
+a look through the
+[contribution guidelines](https://github.com/mdn/content#making-contributions).
+
 #### 🔬 QuestDB
 
-I write docs at [QuestDB](https://github.com/questdb/questdb) - a blazing fast
-open source time series database. QuestDB is a high-performance, open-source SQL
+I wrote the docs at [QuestDB](https://github.com/questdb/questdb) - a blazing
+fast open source time series database. QuestDB is a high-performance SQL
 database for applications in financial services, IoT, machine learning, DevOps
 and observability.
 
@@ -33,4 +37,4 @@ interact with REST APIs.
 ### 📫 Get in touch
 
 If you're building open source tools and communities, feel free to
-[DM me on Twitter](https://twitter.com/DevDocsBrian).
+[get in touch on Twitter](https://twitter.com/DevDocsBrian).
