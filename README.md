@@ -1,8 +1,15 @@
 ### Brian Smith (@bsmth) here 👋
 
-I'm a **Staff Technical Writer** at MDN. I write developer docs and technical
-content. I hack on API docs, Python, Node.js, fullstack projects, and data
-visualization.
+I'm a **Staff Technical Writer** on the MDN Web Docs team, building and
+maintaining technical documentation.
+[MDN Web Docs](https://github.com/mdn/content) is an open-source, collaborative
+project that documents web platform technologies, including CSS, HTML,
+JavaScript, and Web APIs. MDN serves 13,000 pages of documentation (and 43,000
+pages of localized content) to approximately 15 million monthly visitors who
+want to learn how the web works.
+
+MDN's mission is to provide a blueprint for a better internet and empower a new
+generation of developers and content creators to build it.
 
 **My card:**
 
@@ -37,4 +44,4 @@ interact with REST APIs.
 ### 📫 Get in touch
 
 If you're building open source tools and communities, feel free to
-[get in touch on Twitter](https://twitter.com/DevDocsBrian).
+[get in touch on Mastodon](https://masto.smith.berlin/@brian).
