@@ -1,6 +1,6 @@
 # Brian Smith (@bsmth) here 👋
 
-:fox_face: I'm a Staff Technical Writer at @Mozilla on the [MDN Web Docs](https://developer.mozilla.org) team where I document web platform technologies.
+:fox_face: I'm a Staff Technical Writer at Mozilla on the [MDN Web Docs](https://developer.mozilla.org) team where I document web platform technologies.
 If you would like to contribute to the MDN content, see the [MDN Content repo](https://github.com/mdn/content) and don't forget to take a look through the [contribution guidelines](https://developer.mozilla.org/en-US/docs/MDN/Contribute).
 
 **About MDN Web Docs:**
